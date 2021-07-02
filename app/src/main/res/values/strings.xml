@@ -1,0 +1,261 @@
+<resources>
+    <string name="app_name">Bolos Sheila</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="btnEntrar">ENTRE</string>
+    <string name="contentString">TODO</string>
+
+    <!--strings do bolo de brigadeiro-->
+    <string name="b_igTopo">Bolo de Brigadeiro</string>
+    <string name="b_ig1">◉ Massa de chocolate</string>
+    <string name="b_ig2">◉ Recheio de Brigadeiro</string>
+    <string name="b_ig3">◉ Cobertura de Chocolate</string>
+    <string name="b_ig4">◉ Decoração opcional</string>
+    <string name="b_ig5">◉ Topper a partir de R$20,00</string>
+    <string name="b_ig6">◉ Consulte ou Indique modelo de Topper</string>
+    <string name="b_ig7">◉ Consulte Adicionais</string>
+    <string name="b_ig8">◉ R$ 48,00 Kg</string>
+
+    <!--strings do bolo de 4 leites-->
+    <string name="q_igTopo">Bolo 4 Leites</string>
+    <string name="q_ig1">◉ Massa Branca</string>
+    <string name="q_ig2">◉ Recheio 4 leites</string>
+    <string name="q_ig3">◉ Cobertura Chantininho</string>
+    <string name="q_ig4">◉ Decoração opcional</string>
+    <string name="q_ig5">◉ Topper a partir de R$20,00</string>
+    <string name="q_ig6">◉ Consulte ou Indique modelo de Topper</string>
+    <string name="q_ig7">◉ Consulte Adicionais</string>
+    <string name="q_ig8">◉ R$ 48,00 Kg</string>
+
+    <!--strings do bolo 2 amores-->
+    <string name="da_igTopo">Bolo 2 Amores</string>
+    <string name="da_ig1">◉ Massa Branca</string>
+    <string name="da_ig2">◉ Recheio Brigadeiro</string>
+    <string name="da_ig3">◉ Recheio de Beijinho</string>
+    <string name="da_ig4">◉ Decoração opcional</string>
+    <string name="da_ig5">◉ Topper a partir de R$20,00</string>
+    <string name="da_ig6">◉ Consulte ou Indique modelo de Topper</string>
+    <string name="da_ig7">◉ Consulte Adicionais</string>
+    <string name="da_ig8">◉ R$ 48,00 Kg</string>
+
+    <!--strings do bolo de beijinho-->
+    <string name="bb_igTopo">Bolo de Beijinho</string>
+    <string name="bb_ig1">◉ Massa Branca</string>
+    <string name="bb_ig2">◉ Recheio de Beijinho</string>
+    <string name="bb_ig3">◉ Cobertura de Beijinho/Coco Ralado</string>
+    <string name="bb_ig4">◉ Decoração opcional</string>
+    <string name="bb_ig5">◉ Topper a partir de R$20,00</string>
+    <string name="bb_ig6">◉ Consulte ou Indique modelo de Topper</string>
+    <string name="bb_ig7">◉ Consulte Adicionais</string>
+    <string name="bb_ig8">◉ R$ 48,00 Kg</string>
+
+    <!--strings do bolo creme com abacaxi-->
+    <string name="bca_igTopo">Bolo Creme Belga com Abacaxi</string>
+    <string name="bca_ig1">◉ Massa Branca</string>
+    <string name="bca_ig2">◉ Recheio de Creme Belga c/ Abacaxi</string>
+    <string name="bca_ig3">◉ Cobertura de Chantili</string>
+    <string name="bca_ig4">◉ Decoração opcional</string>
+    <string name="bca_ig5">◉ Topper a partir de R$20,00</string>
+    <string name="bca_ig6">◉ Consulte ou Indique modelo de Topper</string>
+    <string name="bca_ig7">◉ Consulte Adicionais</string>
+    <string name="bca_ig8">◉ R$ 48,00 Kg</string>
+
+    <!--strings do bolo alpino-->
+    <string name="bal_igTopo">Bolo Alpino</string>
+    <string name="bal_ig1">◉ Massa Chocolate</string>
+    <string name="bal_ig2">◉ Recheio de Chocolate Alpino</string>
+    <string name="bal_ig3">◉ Cobertura de Chantinihno de Chocolate</string>
+    <string name="bal_ig4">◉ Decoração opcional</string>
+    <string name="bal_ig5">◉ Topper a partir de R$20,00</string>
+    <string name="bal_ig6">◉ Consulte ou Indique modelo de Topper</string>
+    <string name="bal_ig7">◉ Consulte Adicionais</string>
+    <string name="bal_ig8">◉ R$ 60,00 Kg</string>
+
+    <!--strings do bolo baba de moça-->
+    <string name="bmc_igTopo">Bolo Baba de Moça</string>
+    <string name="bmc_ig1">◉ Massa Branca</string>
+    <string name="bmc_ig2">◉ Recheio Baba de Moça</string>
+    <string name="bmc_ig3">◉ Cobertura de Chantinihno</string>
+    <string name="bmc_ig4">◉ Decoração opcional</string>
+    <string name="bmc_ig5">◉ Topper a partir de R$20,00</string>
+    <string name="bmc_ig6">◉ Consulte ou Indique modelo de Topper</string>
+    <string name="bmc_ig7">◉ Consulte Adicionais</string>
+    <string name="bmc_ig8">◉ R$ 53,00 Kg</string>
+
+    <!--strings do bolo brigadeiro de ninho-->
+    <string name="bbn_igTopo">Bolo Brigadeiro de Ninho</string>
+    <string name="bbn_ig1">◉ Massa Branca</string>
+    <string name="bbn_ig2">◉ Recheio Brigadeiro Ninho</string>
+    <string name="bbn_ig3">◉ Cobertura Creme de Ninho</string>
+    <string name="bbn_ig4">◉ Decoração opcional</string>
+    <string name="bbn_ig5">◉ Topper a partir de R$20,00</string>
+    <string name="bbn_ig6">◉ Consulte ou Indique modelo de Topper</string>
+    <string name="bbn_ig7">◉ Consulte Adicionais</string>
+    <string name="bbn_ig8">◉ R$ 50,00 Kg</string>
+
+    <!--strings do bolo brigadeiro trufado-->
+    <string name="bbt_igTopo">Bolo Brigadeiro Trufado</string>
+    <string name="bbt_ig1">◉ Massa Chocolate</string>
+    <string name="bbt_ig2">◉ Recheio Brigadeiro com Pedaços de Chocolate</string>
+    <string name="bbt_ig3">◉ Cobertura Chocolate</string>
+    <string name="bbt_ig4">◉ Decoração opcional</string>
+    <string name="bbt_ig5">◉ Topper a partir de R$20,00</string>
+    <string name="bbt_ig6">◉ Consulte ou Indique modelo de Topper</string>
+    <string name="bbt_ig7">◉ Consulte Adicionais</string>
+    <string name="bbt_ig8">◉ R$ 50,00 Kg</string>
+
+    <!--strings do bolo chiffon-->
+    <string name="bch_igTopo">Bolo Chiffon</string>
+    <string name="bch_ig1">◉ Massa Chocolate</string>
+    <string name="bch_ig2">◉ Recheio Chiffon</string>
+    <string name="bch_ig3">◉ Cobertura Chantininho de Chocolate</string>
+    <string name="bch_ig4">◉ Decoração opcional</string>
+    <string name="bch_ig5">◉ Topper a partir de R$20,00</string>
+    <string name="bch_ig6">◉ Consulte ou Indique modelo de Topper</string>
+    <string name="bch_ig7">◉ Consulte Adicionais</string>
+    <string name="bch_ig8">◉ R$ 60,00 Kg</string>
+
+    <!--strings do bolo creme belga com morango-->
+    <string name="bcbm_igTopo">Bolo Creme Belga com Morango</string>
+    <string name="bcbm_ig1">◉ Massa Branca</string>
+    <string name="bcbm_ig2">◉ Recheio Creme Belga c/ Morango</string>
+    <string name="bcbm_ig3">◉ Cobertura Chantininho e Morangos</string>
+    <string name="bcbm_ig4">◉ Decoração opcional</string>
+    <string name="bcbm_ig5">◉ Topper a partir de R$20,00</string>
+    <string name="bcbm_ig6">◉ Consulte ou Indique modelo de Topper</string>
+    <string name="bcbm_ig7">◉ Consulte Adicionais</string>
+    <string name="bcbm_ig8">◉ R$ 53,00 Kg</string>
+
+    <!--strings do bolo creme Nihno com morango-->
+    <string name="bcnm_igTopo">Bolo Creme Ninho com Morango</string>
+    <string name="bcnm_ig1">◉ Massa Branca</string>
+    <string name="bcnm_ig2">◉ Recheio Creme Ninho c/ Morango</string>
+    <string name="bcnm_ig3">◉ Cobertura Chantininho e Morangos</string>
+    <string name="bcnm_ig4">◉ Decoração opcional</string>
+    <string name="bcnm_ig5">◉ Topper a partir de R$20,00</string>
+    <string name="bcnm_ig6">◉ Consulte ou Indique modelo de Topper</string>
+    <string name="bcnm_ig7">◉ Consulte Adicionais</string>
+    <string name="bcnm_ig8">◉ R$ 50,00 Kg</string>
+
+    <!--strings do bolo doce de leite-->
+    <string name="bdl_igTopo">Bolo Doce de Leite</string>
+    <string name="bdl_ig1">◉ Massa Branca</string>
+    <string name="bdl_ig2">◉ Recheio Doce de Leite</string>
+    <string name="bdl_ig3">◉ Cobertura Doce de Leite</string>
+    <string name="bdl_ig4">◉ Decoração opcional</string>
+    <string name="bdl_ig5">◉ Topper a partir de R$20,00</string>
+    <string name="bdl_ig6">◉ Consulte ou Indique modelo de Topper</string>
+    <string name="bdl_ig7">◉ Consulte Adicionais</string>
+    <string name="bdl_ig8">◉ R$ 48,00 Kg</string>
+
+    <!--strings do bolo floresta negra-->
+    <string name="bfn_igTopo">Bolo Floresta Negra</string>
+    <string name="bfn_ig1">◉ Massa Chocolate</string>
+    <string name="bfn_ig2">◉ Recheio Creme Branco com Cereja</string>
+    <string name="bfn_ig3">◉ Cobertura Chantininho de Chocolate</string>
+    <string name="bfn_ig4">◉ Decoração opcional</string>
+    <string name="bfn_ig5">◉ Topper a partir de R$20,00</string>
+    <string name="bfn_ig6">◉ Consulte ou Indique modelo de Topper</string>
+    <string name="bfn_ig7">◉ Consulte Adicionais</string>
+    <string name="bfn_ig8">◉ R$ 53,00 Kg</string>
+
+    <!--strings do bolo kitkat-->
+    <string name="bkk_igTopo">Bolo KitKat</string>
+    <string name="bkk_ig1">◉ Massa Chocolate</string>
+    <string name="bkk_ig2">◉ Recheio Opcional</string>
+    <string name="bkk_ig3">◉ Cobertura KitKat</string>
+    <string name="bkk_ig4">◉ Decoração opcional</string>
+    <string name="bkk_ig5">◉ Topper a partir de R$20,00</string>
+    <string name="bkk_ig6">◉ Consulte ou Indique modelo de Topper</string>
+    <string name="bkk_ig7">◉ Consulte Adicionais</string>
+    <string name="bkk_ig8">◉ R$ 60,00 Kg</string>
+
+    <!--strings do bolo laka-->
+    <string name="blk_igTopo">Bolo Laka</string>
+    <string name="blk_ig1">◉ Massa Branca</string>
+    <string name="blk_ig2">◉ Recheio Laka</string>
+    <string name="blk_ig3">◉ Cobertura Creme de Laka</string>
+    <string name="blk_ig4">◉ Decoração opcional</string>
+    <string name="blk_ig5">◉ Topper a partir de R$20,00</string>
+    <string name="blk_ig6">◉ Consulte ou Indique modelo de Topper</string>
+    <string name="blk_ig7">◉ Consulte Adicionais</string>
+    <string name="blk_ig8">◉ R$ 60,00 Kg</string>
+
+    <!--strings do bolo de mousse-->
+    <string name="bm_igTopo">Bolo de Mousse</string>
+    <string name="bm_ig1">◉ Massa Branca ou Chocolate</string>
+    <string name="bm_ig2">◉ Recheio Sabores a Escolha</string>
+    <string name="bm_ig3">◉ Cobertura Chantininho</string>
+    <string name="bm_ig4">◉ Decoração opcional</string>
+    <string name="bm_ig5">◉ Topper a partir de R$20,00</string>
+    <string name="bm_ig6">◉ Consulte ou Indique modelo de Topper</string>
+    <string name="bm_ig7">◉ Consulte Adicionais</string>
+    <string name="bm_ig8">◉ R$ 48,00 Kg</string>
+
+    <!--strings do bolo ninho trufado com morango-->
+    <string name="bntm_igTopo">Bolo Ninho Trufado com Morango</string>
+    <string name="bntm_ig1">◉ Massa Branca</string>
+    <string name="bntm_ig2">◉ Recheio Creme Ninho pedaços de Chocolate e Morango</string>
+    <string name="bntm_ig3">◉ Cobertura Chantininho</string>
+    <string name="bntm_ig4">◉ Decoração opcional</string>
+    <string name="bntm_ig5">◉ Topper a partir de R$20,00</string>
+    <string name="bntm_ig6">◉ Consulte ou Indique modelo de Topper</string>
+    <string name="bntm_ig7">◉ Consulte Adicionais</string>
+    <string name="bntm_ig8">◉ R$ 53,00 Kg</string>
+
+    <!--strings do bolo nutella-->
+    <string name="bntl_igTopo">Bolo Nutella</string>
+    <string name="bntl_ig1">◉ Massa Chocolate</string>
+    <string name="bntl_ig2">◉ Recheio Creme de Nutella</string>
+    <string name="bntl_ig3">◉ Cobertura Opcional</string>
+    <string name="bntl_ig4">◉ Decoração Opcional</string>
+    <string name="bntl_ig5">◉ Topper a partir de R$20,00</string>
+    <string name="bntl_ig6">◉ Consulte ou Indique modelo de Topper</string>
+    <string name="bntl_ig7">◉ Consulte Adicionais</string>
+    <string name="bntl_ig8">◉ R$ 60,00 Kg</string>
+
+    <!--strings do bolo oreo-->
+    <string name="bore_igTopo">Bolo Oreo</string>
+    <string name="bore_ig1">◉ Massa Chocolate</string>
+    <string name="bore_ig2">◉ Recheio Creme de Oreo</string>
+    <string name="bore_ig3">◉ Cobertura Opcional</string>
+    <string name="bore_ig4">◉ Decoração Opcional</string>
+    <string name="bore_ig5">◉ Topper a partir de R$20,00</string>
+    <string name="bore_ig6">◉ Consulte ou Indique modelo de Topper</string>
+    <string name="bore_ig7">◉ Consulte Adicionais</string>
+    <string name="bore_ig8">◉ R$ 60,00 Kg</string>
+
+    <!--strings do bolo prestigio-->
+    <string name="bpr_igTopo">Bolo de Prestígio</string>
+    <string name="bpr_ig1">◉ Massa Chocolate</string>
+    <string name="bpr_ig2">◉ Recheio Beijinho</string>
+    <string name="bpr_ig3">◉ Cobertura Opcional</string>
+    <string name="bpr_ig4">◉ Decoração opcional</string>
+    <string name="bpr_ig5">◉ Topper a partir de R$20,00</string>
+    <string name="bpr_ig6">◉ Consulte ou Indique modelo de Topper</string>
+    <string name="bpr_ig7">◉ Consulte Adicionais</string>
+    <string name="bpr_ig8">◉ R$ 48,00 Kg</string>
+
+    <!--strings do bolo de 4 leites Trufado-->
+    <string name="qt_igTopo">Bolo 4 Leites Trufado</string>
+    <string name="qt_ig1">◉ Massa Branca</string>
+    <string name="qt_ig2">◉ Recheio 4 leites Trufado</string>
+    <string name="qt_ig3">◉ Cobertura Chantininho</string>
+    <string name="qt_ig4">◉ Decoração opcional</string>
+    <string name="qt_ig5">◉ Topper a partir de R$20,00</string>
+    <string name="qt_ig6">◉ Consulte ou Indique modelo de Topper</string>
+    <string name="qt_ig7">◉ Consulte Adicionais</string>
+    <string name="qt_ig8">◉ R$ 53,00 Kg</string>
+
+    <!--strings do bolo sensação-->
+    <string name="bs_igTopo">Bolo Sensação</string>
+    <string name="bs_ig1">◉ Massa Chocolate</string>
+    <string name="bs_ig2">◉ Recheio Mousse de Morango com Pedaços de Chocolate e Pedaços de Morango</string>
+    <string name="bs_ig3">◉ Cobertura Chantininho</string>
+    <string name="bs_ig4">◉ Decoração opcional</string>
+    <string name="bs_ig5">◉ Topper a partir de R$20,00</string>
+    <string name="bs_ig6">◉ Consulte ou Indique modelo de Topper</string>
+    <string name="bs_ig7">◉ Consulte Adicionais</string>
+    <string name="bs_ig8">◉ R$ 48,00 Kg</string>
+
+</resources>
